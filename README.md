@@ -1,0 +1,2 @@
+# flipr
+sqitch tests
