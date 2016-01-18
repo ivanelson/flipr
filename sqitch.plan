@@ -3,4 +3,6 @@
 %uri=https://github.com/ivanelson/flipr.git
 
 appschema 2016-01-15T23:04:38Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Add schema for all flipr objects.
-users [appschema] 2016-01-18T19:54:41Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Creates table to track our users.
+users [appschema] 2016-01-18T19:32:10Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Creates table to track our users.
+insert_user [users appschema] 2016-01-18T19:43:46Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Creates a function to insert a user.
+change_pass [users appschema] 2016-01-18T19:44:02Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Creates a function to change a user password.
