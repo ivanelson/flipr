@@ -13,3 +13,4 @@ insert_list [lists appschema users] 2016-01-26T03:06:13Z Ivanelson Nunes <ivanel
 delete_list [lists appschema users] 2016-01-26T03:08:40Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # create a function to delete lists
 flips [appschema users] 2016-01-18T20:05:26Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Adds table for storing flips.
 insert_flip [flips appschema users] 2016-01-26T03:53:33Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Create a function to insert flip
+delete_flip [flips appschema users] 2016-01-26T04:05:48Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Create a function to insert_flip
