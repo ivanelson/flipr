@@ -10,3 +10,4 @@ change_pass [users appschema] 2016-01-18T19:44:02Z Ivanelson Nunes <ivanelsonnun
 
 lists [appschema users] 2016-01-26T03:01:03Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Add functions to insert_list
 insert_list [lists appschema users] 2016-01-26T03:06:13Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # create a function to insert lists
+delete_list [lists appschema users] 2016-01-26T03:08:40Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # create a function to delete lists
