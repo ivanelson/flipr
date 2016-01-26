@@ -7,3 +7,5 @@ users [appschema] 2016-01-18T19:32:10Z Ivanelson Nunes <ivanelsonnunes@gmail.com
 insert_user [users appschema] 2016-01-18T19:43:46Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Creates a function to insert a user.
 change_pass [users appschema] 2016-01-18T19:44:02Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Creates a function to change a user password.
 @v1.0.0-dev1 2016-01-18T19:57:50Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Tag v1.0.0-dev1.
+
+lists [appschema users] 2016-01-26T03:01:03Z Ivanelson Nunes <ivanelsonnunes@gmail.com> # Add functions to insert_list
